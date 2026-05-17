@@ -1,4 +1,5 @@
 # Azure Secure VM Setup with Terraform + Azure Bastion
+![Architecture Diagram](Diagram.png)
 
 ## Architecture Overview
 
