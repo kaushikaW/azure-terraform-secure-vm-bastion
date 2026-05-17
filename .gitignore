@@ -1,0 +1,22 @@
+# Terraform state files (DO NOT UPLOAD)
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform cache
+.terraform/
+.terraform.lock.hcl
+
+# Variable files (may contain secrets)
+terraform.tfvars
+*.auto.tfvars
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI config
+.terraformrc
+terraform.rc
